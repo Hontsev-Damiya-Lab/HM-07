@@ -1,2 +1,7 @@
-# HM-07
-Hontsev Machine - 07  (HDL)
+## HM-07
+
+#### 简介
+
+未完工的一个可学习应答机。估计以后会用更好的替代。放在git上存个档。
+
+隶属于 HM - 07 Project (HDL)
